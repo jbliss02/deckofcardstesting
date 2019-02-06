@@ -1,0 +1,23 @@
+
+  .carddrop {
+    position: fixed;
+    top: calc(50% + 1.5rem);
+    left: 50%;
+    -webkit-transform: translate3d(-50%, -50%, 0);
+    -moz-transform: translate3d(-50%, -50%, 0);
+    -o-transform: translate3d(-50%, -50%, 0);
+    -ms-transform: translate3d(-50%, -50%, 0);
+    transform: translate3d(-50%, -50%, 0);
+  }
+  #card1 {     
+    top: calc(66% + 1.5rem);
+    left: 20%;
+  }
+  #card2 {     
+    top: calc(66% + 1.5rem);
+    left: 80%;
+  }
+  #card3 {     
+    top: calc(66% + 1.5rem);
+    left: 50%;
+  } 
